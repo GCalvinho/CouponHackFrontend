@@ -1,0 +1,14 @@
+{
+  "name": "Coupon Hack",
+  "short_name": "Coupon Hack",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Aplicação para obter cupões Free Shipping.",
+  "icons": [
+    {
+      "src": "resources/Icon.png",
+      "sizes": "72x72 96x96 128x128 256x256"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+.btn.btn-success.fetch {
+    color: #fff;
+    background-color: #009385;
+    border-color: #009385;
+}
+.btn.btn-warning.refresh {
+    color: #fff;
+    background-color: #172242;
+    border-color: #172242;
+}
+
+.jumbotron {
+    color: inherit;
+    background-color: #fff0;
+}
+
+
